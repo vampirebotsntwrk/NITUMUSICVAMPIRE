@@ -24,7 +24,7 @@
 ## 🖇 Generating Pyrogram String Session
 
 <p>
-<a href="https://t.me/KITTYXMUSICBOT-Gen"><img src="https://img.shields.io/badge/TG%20MUSIC%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/KITTYXMUSICBOT-Gen"><img src="https://img.shields.io/badge/TG%20MUSIC%20BEST%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 <a href="https://t.me/KITTYXMUSICBOT-Gen"><img src="https://img.shields.io/badge/KITTY%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
