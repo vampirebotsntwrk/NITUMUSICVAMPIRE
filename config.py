@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","llVAMPIRE_KINGlll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","lllVAMPIRE_KINGll")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "NITUMUSICBOT")
 # --------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002830767280))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003070925721))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 8051082678))
+OWNER_ID = int(getenv("OWNER_ID", 8410426172))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/lllVAMPIRE_UPDATElll")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/lllVAMPIRE_UPDATElll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llVAMPIRE_UPDATEll")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://youtube.com/@mini_ajmer_vloger")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
